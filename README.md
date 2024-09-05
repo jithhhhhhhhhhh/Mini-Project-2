@@ -7,3 +7,6 @@ The "Symptom-Based Disease Detection and Precautionary Recommendation System" is
 This novel approach has enormous potential for applications in hospital settings, telemedicine platforms, and public health initiatives. It offers a scalable and adaptive solution to the expanding issues of illness identification and management by leveraging the power of machine learning algorithms and advanced web technologies. Furthermore, its interaction with the Gemini API allows for easy communication and information exchange, resulting in personalised health recommendations and access to dependable healthcare resources. As healthcare evolves, the Symptom-Based Disease Detection and Precautionary Recommendation System remains at the vanguard of innovation, paving the path for a healthier, more connected future.
 
 
+
+https://github.com/user-attachments/assets/9e131080-fb9c-414c-ad67-77f2dfcd0b28
+
